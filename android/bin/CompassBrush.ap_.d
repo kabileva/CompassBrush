@@ -1,0 +1,24 @@
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/CompassBrush.ap_ \
+ : /Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/res/drawable/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/res/drawable-hdpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/res/drawable-ldpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/res/drawable-xhdpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/res/drawable-xxhdpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/res/drawable-xxxhdpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/res/layout/main.xml \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/res/drawable/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/res/drawable-hdpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/res/drawable-ldpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/res/drawable-xhdpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/res/drawable-xxhdpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/res/drawable-xxxhdpi/icon.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/assets/brush.svg \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/assets/Century-48.vlw \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/assets/colorWheel.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/assets/colorWheel2.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/assets/help.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/assets/JCkg-48.vlw \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/assets/LaoMN-48.vlw \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/assets/myBrushes.xml \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/assets/title.png \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/AndroidManifest.xml \

@@ -1,0 +1,23 @@
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes.dex : \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/BuildConfig.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$Brush.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$Canvas.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$colorWheel.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$Controller.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$IFace.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$Lines.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$Option.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$Sensor.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$sizeControl.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush$Start.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/CompassBrush.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/MainActivity$1.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/MainActivity.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/R$attr.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/R$drawable.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/R$id.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/R$layout.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/classes/processing/test/compassbrush/R.class \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/dexedLibs/android-support-v4-f88de86e72ffb4bca06e300c242d8c83.jar \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/dexedLibs/ketai-c1652aaa04bbcba629181f5c6c6d12a5.jar \
+/Users/kateabileva/Desktop/Repos/id430-project/CompassBrush/android/bin/dexedLibs/processing-core-0618e3b5991c88f920f6152560e68211.jar \
